@@ -2,8 +2,8 @@
 
 #### 👦 ABOUT ME:
 
-My name is Kevin Roozrokh, welcome to my GitHub. Checkout my portfolio here -
-https://kevinroozrokh.github.io/
+My name is `Kevin Roozrokh`, welcome to my **GitHub**. <br>*Checkout my portfolio here -
+https://kevinroozrokh.github.io/*
 
 ---
 [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh)
