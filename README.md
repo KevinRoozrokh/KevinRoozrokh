@@ -30,11 +30,11 @@ Client-Server:<br>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
 </p>
 
-
+<p>
 Software Development:<br>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="12%" src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code></p>
+<p><code><img width="12%" src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
 </p>
 
