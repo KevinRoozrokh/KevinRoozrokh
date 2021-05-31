@@ -1,11 +1,12 @@
 ---
 
-#### 👦 ABOUT ME:
+#### 🤓 ABOUT ME:
 
 My name is `Kevin Roozrokh`, welcome to my **GitHub**. <br>*Checkout my portfolio here -
 https://kevinroozrokh.github.io/*
 
 ---
+#### 🌐 SOCIAL MEDIA LINKS:
 [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh)
 [![Github.io](https://img.shields.io/badge/-Github.io-black?style=flat-square&logo=Github&logoColor=white)](https://kevinroozrokh.github.io/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-roozrokh/)
