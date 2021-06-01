@@ -3,7 +3,7 @@
 #### 🤓 ABOUT ME:
 
 My name is `Kevin Roozrokh`, welcome to my **GitHub**. <br>
-*Coding Portfolio - https://kevinroozrokh.github.io/*
+*Portfolio: https://kevinroozrokh.github.io/*
 
 ---
 #### 🌐 SOCIAL MEDIA LINKS:
