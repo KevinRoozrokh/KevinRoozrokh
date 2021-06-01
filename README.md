@@ -2,8 +2,8 @@
 
 #### 🤓 ABOUT ME:
 
-My name is `Kevin Roozrokh`, welcome to my **GitHub**. <br>*Checkout my portfolio here -
-https://kevinroozrokh.github.io/*
+My name is `Kevin Roozrokh`, welcome to my **GitHub**. <br>
+*Coding Portfolio - https://kevinroozrokh.github.io/*
 
 ---
 #### 🌐 SOCIAL MEDIA LINKS:
@@ -16,7 +16,7 @@ https://kevinroozrokh.github.io/*
 
 
 ---
-#### 🎯 SOME SKILLS & TOOLS:
+#### 🎯 SKILLS & TOOLS:
 <p>
 Cloud Stack: <br>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
