@@ -40,7 +40,7 @@ Software Development:<br>
 </p>
 
 ---
-#### ✅ RECENTLY COMPLETED PROJECTS:
+#### ✅ RECENT PROJECTS:
 
 https://kevinroozrokh.github.io/ - My portfolio. Coded in CSS, HTML, Sass & JavaScript.<br>
 https://gcpwordpress.tk/ - E- Commerce WordPress. Deployed Ubuntu 20.4 from G Cloud CLI. Hosted on a Google Cloud virtual machine. DNS by Google VPC. Access by Google IAM.<br>
