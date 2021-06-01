@@ -1,9 +1,13 @@
+Welcome to my <code><img width="7%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>.<br>
+
 ---
 
 #### 🤓 ABOUT ME:
 
-My name is `Kevin Roozrokh`. Welcome to my **GitHub**. <br>
-*Portfolio - https://kevinroozrokh.github.io/*
+My name is `Kevin Roozrokh`.  <br>
+
+*<img width="7%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>Portfolio - https://kevinroozrokh.github.io/*
+
 
 ---
 #### 🌐 SOCIAL MEDIA LINKS:
