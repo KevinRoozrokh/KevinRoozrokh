@@ -1,4 +1,4 @@
-Welcome to my <code><img width="7%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>.<br>
+Welcome to my <code><img width="5%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>.<br>
 
 ---
 
@@ -6,7 +6,7 @@ Welcome to my <code><img width="7%" src="https://www.vectorlogo.zone/logos/githu
 
 My name is `Kevin Roozrokh`.  <br>
 
-*<img width="7%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>Portfolio - https://kevinroozrokh.github.io/*
+*<img width="3%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>Portfolio - https://kevinroozrokh.github.io/*
 
 
 ---
