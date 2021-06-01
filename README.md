@@ -2,8 +2,8 @@
 
 #### 🤓 ABOUT ME:
 
-My name is `Kevin Roozrokh`, welcome to my **GitHub**. <br>
-*Portfolio: https://kevinroozrokh.github.io/*
+My name is `Kevin Roozrokh`. Welcome to my **GitHub**. <br>
+*Portfolio - https://kevinroozrokh.github.io/*
 
 ---
 #### 🌐 SOCIAL MEDIA LINKS:
