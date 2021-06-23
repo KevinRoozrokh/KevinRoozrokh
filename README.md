@@ -6,13 +6,6 @@ Welcome to my <code><img width="5%" src="https://www.vectorlogo.zone/logos/githu
 
 My name is `Kevin Roozrokh`.  <br>
 
-Frontend: React & React Native <br>
-Backend: Node.js, Express,js <br>
-Frameworks: Expo, Next.js  <br>
-APIs: Redux, Context API, Stripe <br>
-Databases: Google Firestore, MongoDB <br>
-Hosting: Google Firebase, Google Cloud <br>
-OS: Linux, Windows, macOS, Android, iOS <br>
 
 *Portfolio - https://kevinroozrokh.github.io/*
 
