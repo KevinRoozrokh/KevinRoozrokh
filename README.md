@@ -48,12 +48,14 @@ Software Development:<br>
 #### ✅ RECENT PROJECTS:
 
 https://kevinroozrokh.github.io/ - My portfolio. Coded in CSS, HTML, Sass & JavaScript.<br>
-https://gcpwordpress.tk/ - E- Commerce WordPress. Deployed Ubuntu 20.4 from G Cloud CLI. Hosted on a Google Cloud virtual machine. DNS by Google VPC. Access by Google IAM.<br>
+(Deprecated) https://gcpwordpress.tk/ - E- Commerce WordPress. Deployed Ubuntu 20.4 from G Cloud CLI. Hosted on a Google Cloud virtual machine. DNS by Google VPC. Access by Google IAM.<br> 
 https://twitter-react-7ec96.web.app/ - Twitter clone challenge!  Coded with React & CSS. Backend Google Firestore.<br>
 https://applied-well-308306.firebaseapp.com/ - Covid-19 Tracker. Coded with CSS, HTML, JavaScript, Popper.js, Moment.js & Leaflet.js. <br>
 https://robinhood-react-84145.web.app/ - Robinhood clone challenge! Coded with React, HTML, CSS & FinnHub API.<br>
 https://spotify-js-2c6dd.web.app/ - Spotify clone challenge! Coded with React, HTML, CSS, Spotify API, Auth0, Context API.<br>
 https://react-81c61.web.app/ - Amazon clone challenge! Coded with React, CSS, Context API & Amazon API.<br>
+https://signal-react-native-6e694.firebaseapp.com/ - Signal Chat React Native app. Coded with React Native, Expo, HTML, CSS, Google/Facebook/Github/Twitter/Email 0Auth Login, React Navigation, Vector Icons & React Native elements.
+
 
 ---
 <!--
