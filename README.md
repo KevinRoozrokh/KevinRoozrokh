@@ -2,7 +2,7 @@
 
 #### 🤓 ABOUT ME:
 
-My name is `Kevin Roozrokh`.  Welcome to my <code><img width="5%" src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fgithub%2Fgithub-ar21.svg">.</code>
+My name is `Kevin Roozrokh`.  Welcome to my GitHub.
 
 ---
 #### 🎯 PORTFOLIO:
