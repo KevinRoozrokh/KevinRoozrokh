@@ -2,7 +2,7 @@
 
 #### 🤓 ABOUT ME:
 
-My name is `Kevin Roozrokh`.  Welcome to my GitHub.
+My name is `Kevin Roozrokh`.  <br>Welcome to my GitHub.
 
 ---
 #### 🎯 PORTFOLIO:
