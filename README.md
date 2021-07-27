@@ -1,14 +1,8 @@
-Welcome to my <code><img width="5%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code><br>
-
 ---
 
 #### 🤓 ABOUT ME:
 
-My name is `Kevin Roozrokh`.  <br>
-
-
-*Portfolio - https://kevinroozrokh.github.io/*
-
+My name is `Kevin Roozrokh`.  Welcome to my <code><img width="5%" src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fgithub%2Fgithub-ar21.svg">.</code>
 
 ---
 #### 🌐 SOCIAL MEDIA LINKS:
@@ -19,25 +13,10 @@ My name is `Kevin Roozrokh`.  <br>
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/donkayvan/)
 [![Twitter](https://img.shields.io/badge/-Twitter-teal?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/kevinkayvan)
 
-
 ---
-#### 🎯 SKILLS & TOOLS:
-<p>
-<code><img width="12%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-<code><img width="12%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-</p>
-<p>
-<code><img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="12%" src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"></code>
-</p>
-<p>
-<br>
-<code><img width="12%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img width="12%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code></p>
-<p><code><img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="12%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
-</p>
+#### 🎯 PORTFOLIO:
 
+*https://kevinroozrokh.github.io/*
 
 ---
 #### ✅ RECENT PROJECTS:
