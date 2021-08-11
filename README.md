@@ -2,7 +2,10 @@
 
 #### 🤓 ABOUT ME:
 
-My name is `Kevin Roozrokh`.  <br>Welcome to my GitHub.
+My name is `Kevin Roozrokh`.  <br>Welcome to my GitHub.<br>
+// React.JS && React Native<br>
+// Solidity && Smart Contracts<br>
+// GCP && Firebase<br>
 
 ---
 #### 🎯 PORTFOLIO:
