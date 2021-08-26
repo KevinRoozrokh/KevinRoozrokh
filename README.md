@@ -3,19 +3,17 @@
 #### 🤓 ABOUT ME:
 
 My name is `Kevin Roozrokh`. 
-<br><br>Welcome to my [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh).<br>
+Welcome to my [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh).<br>
 
 // JavaScript && React.JS && React Native<br>
 // Solidity && Smart Contracts<br>
-// Google Cloud Platform && Firebase<br><br>
+// Google Cloud Platform && Firebase
 
 ---
 #### 🎯 CONTACT:
 
-Portfolio: https://kevinroozrokh.github.io/
-
-Github: https://github.com/KevinRoozrokh
-
+Portfolio: https://kevinroozrokh.github.io/<br>
+Github: https://github.com/KevinRoozrokh<br>
 Email: KevRooz@Outlook.com
 
 ---
