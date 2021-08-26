@@ -34,12 +34,11 @@ Email: KevRooz@Outlook.com
 
 (Deprecated) https://gcpwordpress.tk/ - E-Commerce website. Deployed on Google Cloud w/ Ubuntu 20.4 from G-Cloud CLI. DNS by Google VPC. Access by Google IAM.<br> 
 Twitter Clone - ReactJS - https://twitter-react-7ec96.web.app/  <br>
-Covid-19 Tracker - Vanilla JavaScript -https://applied-well-308306.firebaseapp.com/  <br>
+Covid-19 Tracker - Vanilla JavaScript - https://applied-well-308306.firebaseapp.com/  <br>
 Robinhood Clone - ReactJS - https://robinhood-react-84145.web.app/  <br>
 Spotify Clone - ReactJS - https://spotify-js-2c6dd.web.app/ <br>
 Amazon Clone - ReactJS - https://react-81c61.web.app/ <br>
 Signal Clone - React Native - https://signal-react-native-6e694.firebaseapp.com/  
-
 
 ---
 <!--
