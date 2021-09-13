@@ -36,8 +36,10 @@ Covid-19 Tracker - Vanilla JavaScript - https://applied-well-308306.firebaseapp.
 Robinhood Clone - ReactJS - https://robinhood-react-84145.web.app/  <br>
 Spotify Clone - ReactJS - https://spotify-js-2c6dd.web.app/ <br>
 Amazon Clone - ReactJS - https://react-81c61.web.app/ <br>
-Signal Clone - React Native - https://signal-react-native-6e694.firebaseapp.com/  
-
+Signal Clone - React Native - https://signal-react-native-6e694.firebaseapp.com/ <br>
+Miner Token (MNR) - Cardano Native Smart Contract <br>
+Miner NFT (MNRNFT) - Cardano NFT Smart Contract <br>
+Miner Coin (MNRC) - Cardano Fork
 ---
 <!--
 **KevinRoozrokh/KevinRoozrokh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
