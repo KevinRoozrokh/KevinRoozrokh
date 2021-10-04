@@ -30,7 +30,7 @@ Email: KevRooz@Outlook.com
 ---
 #### ✅ RECENT PROJECTS:
 
-(Deprecated) https://gcpwordpress.tk/ - E-Commerce website. Deployed on Google Cloud w/ Ubuntu 20.4 from G-Cloud CLI. DNS by Google VPC. Access by Google IAM.<br> 
+(Deprecated) https://gcpwordpress.tk/ - E-Commerce website. Google Cloud, Ubuntu 20.4. Google VPC. Google IAM.<br> 
 Twitter Clone - ReactJS - https://twitter-react-7ec96.web.app/  <br>
 Covid-19 Tracker - Vanilla JavaScript - https://applied-well-308306.firebaseapp.com/  <br>
 Robinhood Clone - ReactJS - https://robinhood-react-84145.web.app/  <br>
