@@ -5,6 +5,7 @@
 My name is `Kevin Roozrokh`. 
 Welcome to my [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh).<br>
 
+[![ReactJS](https://img.shields.io/badge/-reactjs-gray?style=flat-square&logo=reactjs&logoColor=white)]
 // JavaScript && React.JS && React Native<br>
 // ETH and ADA Blockchain Smart Contracts && NFTs<br>
 // Google Cloud Platform && Firebase
@@ -47,10 +48,7 @@ KarateXplosion NFT -  Limited edition collection of 4k NFT prints.
 ---
 #### ✉️ Contact:
 
-Portfolio: https://kevinroozrokh.github.io/<br>
-Github: https://github.com/KevinRoozrokh<br>
 Email: KevRooz@Outlook.com
-
 
 ---
 <!--
