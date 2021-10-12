@@ -6,7 +6,7 @@ My name is `Kevin Roozrokh`.
 Welcome to my [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh).<br>
 
 // JavaScript && React.JS && React Native<br>
-// Solidity && Smart Contracts<br>
+// ETH and ADA Blockchain Smart Contracts && NFTs<br>
 // Google Cloud Platform && Firebase
 
 ---
@@ -26,6 +26,7 @@ Email: KevRooz@Outlook.com
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/donkayvan/)
 [![Twitter](https://img.shields.io/badge/-Twitter-teal?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/kevinkayvan)
 [![Reddit](https://img.shields.io/badge/-reddit-orange?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/KevinKayvan)
+[![Discord](https://img.shields.io/badge/-discord-purple?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/m2V3YQmMua)
 
 ---
 #### ✅ RECENT PROJECTS:
@@ -37,9 +38,10 @@ Robinhood Clone - ReactJS - https://robinhood-react-84145.web.app/  <br>
 Spotify Clone - ReactJS - https://spotify-js-2c6dd.web.app/ <br>
 Amazon Clone - ReactJS - https://react-81c61.web.app/ <br>
 Signal Clone - React Native - https://signal-react-native-6e694.firebaseapp.com/ <br>
-Miner Token (MNR) - Cardano Native Smart Contract <br>
-Miner NFT (MNRNFT) - Cardano NFT Smart Contract <br>
-Miner Coin (MNRC) - Cardano Fork
+Miner Token (MNR) - A Cardano ₳ native cryptocurrency minted with 21 million supply. <br>
+💎 Miner NFT Gems - 6 Cardano ₳ native NFT gems inspired by precious metals. Copper, Silver, Gold, Platinum, Rhodium and Diamond. https://atish.art/ <br>
+FF1Punks ⚔️ Final Fantasy NFTs - Choose your class. Create a party. Collect your favorite heroes in NFT form from the timeless RPG classic, Final Fantasy. https://atish.art/ <br>
+
 
 ---
 <!--
