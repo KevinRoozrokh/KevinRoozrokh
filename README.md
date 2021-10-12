@@ -1,6 +1,6 @@
 ---
 
-#### 🤓 ABOUT ME:
+#### 🤓 About:
 
 My name is `Kevin Roozrokh`. 
 Welcome to my [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh).<br>
@@ -10,14 +10,26 @@ Welcome to my [![Github](https://img.shields.io/badge/-Github-gray?style=flat-sq
 // Google Cloud Platform && Firebase
 
 ---
-#### 🎯 CONTACT:
+#### ⚛️ ReactJS & React Native Projects:
 
-Portfolio: https://kevinroozrokh.github.io/<br>
-Github: https://github.com/KevinRoozrokh<br>
-Email: KevRooz@Outlook.com
+(Deprecated) https://gcpwordpress.tk/ - E-Commerce website. Google Cloud, Ubuntu 20.4. Google VPC. Google IAM.<br> 
+Twitter Clone - ReactJS - https://twitter-react-7ec96.web.app/  <br>
+Covid-19 Tracker - Vanilla JavaScript - https://applied-well-308306.firebaseapp.com/  <br>
+Robinhood Clone - ReactJS - https://robinhood-react-84145.web.app/  <br>
+Spotify Clone - ReactJS - https://spotify-js-2c6dd.web.app/ <br>
+Amazon Clone - ReactJS - https://react-81c61.web.app/ <br>
+Signal Clone - React Native - https://signal-react-native-6e694.firebaseapp.com/ <br>
+
+#### 📒 Blockchain Projects:
+
+🔥 ₳tish Labs 🔥 - Atish Labs mints Cardano Native non fungible tokens. https://atish.art/
+Miner Token (MNR) - A Cardano ₳ native cryptocurrency minted with 21 million supply. <br>
+💎 Miner NFT Gems - 6 Cardano ₳ native NFT gems inspired by precious metals. <br>
+FF1Punks ⚔️ Final Fantasy NFTs - Collect your favorite heroes in NFT form from the timeless RPG classic.  <br>
+⚡ Pikachu NFT - Need I say more? 
 
 ---
-#### 🌐 SOCIAL MEDIA LINKS:
+#### 🌐 Socials:
 
 [![Github.io](https://img.shields.io/badge/-Github.io-black?style=flat-square&logo=Github&logoColor=white)](https://kevinroozrokh.github.io/)
 [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh)
@@ -29,23 +41,12 @@ Email: KevRooz@Outlook.com
 [![Discord](https://img.shields.io/badge/-discord-purple?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/m2V3YQmMua)
 
 ---
-#### ✅ REACT PROJECTS:
+#### ✉️ Contact:
 
-(Deprecated) https://gcpwordpress.tk/ - E-Commerce website. Google Cloud, Ubuntu 20.4. Google VPC. Google IAM.<br> 
-Twitter Clone - ReactJS - https://twitter-react-7ec96.web.app/  <br>
-Covid-19 Tracker - Vanilla JavaScript - https://applied-well-308306.firebaseapp.com/  <br>
-Robinhood Clone - ReactJS - https://robinhood-react-84145.web.app/  <br>
-Spotify Clone - ReactJS - https://spotify-js-2c6dd.web.app/ <br>
-Amazon Clone - ReactJS - https://react-81c61.web.app/ <br>
-Signal Clone - React Native - https://signal-react-native-6e694.firebaseapp.com/ <br>
+Portfolio: https://kevinroozrokh.github.io/<br>
+Github: https://github.com/KevinRoozrokh<br>
+Email: KevRooz@Outlook.com
 
-#### BLOCKCHAIN PROJECTS:
-
-🔥 ₳tish Labs 🔥 - Atish Labs mints Cardano Native non fungible tokens. https://atish.art/
-Miner Token (MNR) - A Cardano ₳ native cryptocurrency minted with 21 million supply. <br>
-💎 Miner NFT Gems - 6 Cardano ₳ native NFT gems inspired by precious metals. <br>
-FF1Punks ⚔️ Final Fantasy NFTs - Collect your favorite heroes in NFT form from the timeless RPG classic.  <br>
-⚡ Pikachu NFT - Need I say more? 
 
 ---
 <!--
