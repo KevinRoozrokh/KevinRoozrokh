@@ -7,7 +7,8 @@ Welcome to my [![Github](https://img.shields.io/badge/-Github-gray?style=flat-sq
 
 // React.JS && React Native<br>
 // Blockchain Smart Contracts, NFTs<br>
-// Google Cloud Platform, Firebase
+// Google Cloud Platform, Firebase<br>
+Portfolio: https://kevinroozrokh.github.io/ <br>
 
 ---
 #### ⚛️ ReactJS & React Native Projects:
@@ -48,7 +49,6 @@ FF1Punks ⚔️ Final Fantasy NFTs - Collect your favorite heroes in NFT form fr
 #### ✉️ Contact:
 
 Email: KevRooz@Outlook.com
-Portfolio: https://kevinroozrokh.github.io/
 
 ---
 <!--
