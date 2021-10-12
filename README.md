@@ -21,12 +21,11 @@ Signal Clone - React Native - https://signal-react-native-6e694.firebaseapp.com/
 
 #### 📒 Blockchain Projects:
 
-🔥 ₳tish Labs 🔥 - Atish Labs mints Cardano Native non fungible tokens. https://atish.art/
+🔥 ₳tish Labs 🔥 - Atish Labs mints Cardano Native non fungible tokens. https://atish.art/ <br>
 Miner Token (MNR) - A Cardano ₳ native cryptocurrency minted with 21 million supply. <br>
 💎 Miner NFT Gems - 6 Cardano ₳ native NFT gems inspired by precious metals. <br>
 FF1Punks ⚔️ Final Fantasy NFTs - Collect your favorite heroes in NFT form from the timeless RPG classic.  <br>
 ⚡ Pikachu NFT - Need I say more? <br>
-
 
 #### ❌ Deprecated Projects:
 (Deprecated) gcpwordpress.tk/ - E-Commerce website. Google Cloud, Ubuntu 20.4. Google VPC. Google IAM.<br> 
