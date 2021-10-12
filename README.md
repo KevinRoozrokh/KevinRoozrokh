@@ -29,7 +29,7 @@ Email: KevRooz@Outlook.com
 [![Discord](https://img.shields.io/badge/-discord-purple?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/m2V3YQmMua)
 
 ---
-#### ✅ RECENT PROJECTS:
+#### ✅ REACT PROJECTS:
 
 (Deprecated) https://gcpwordpress.tk/ - E-Commerce website. Google Cloud, Ubuntu 20.4. Google VPC. Google IAM.<br> 
 Twitter Clone - ReactJS - https://twitter-react-7ec96.web.app/  <br>
@@ -38,10 +38,14 @@ Robinhood Clone - ReactJS - https://robinhood-react-84145.web.app/  <br>
 Spotify Clone - ReactJS - https://spotify-js-2c6dd.web.app/ <br>
 Amazon Clone - ReactJS - https://react-81c61.web.app/ <br>
 Signal Clone - React Native - https://signal-react-native-6e694.firebaseapp.com/ <br>
-Miner Token (MNR) - A Cardano ₳ native cryptocurrency minted with 21 million supply. <br>
-💎 Miner NFT Gems - 6 Cardano ₳ native NFT gems inspired by precious metals. Copper, Silver, Gold, Platinum, Rhodium and Diamond. https://atish.art/ <br>
-FF1Punks ⚔️ Final Fantasy NFTs - Choose your class. Create a party. Collect your favorite heroes in NFT form from the timeless RPG classic, Final Fantasy. https://atish.art/ <br>
 
+#### BLOCKCHAIN PROJECTS:
+
+🔥 ₳tish Labs 🔥 - Atish Labs mints Cardano Native non fungible tokens. https://atish.art/
+Miner Token (MNR) - A Cardano ₳ native cryptocurrency minted with 21 million supply. <br>
+💎 Miner NFT Gems - 6 Cardano ₳ native NFT gems inspired by precious metals. <br>
+FF1Punks ⚔️ Final Fantasy NFTs - Collect your favorite heroes in NFT form from the timeless RPG classic.  <br>
+⚡ Pikachu NFT - Need I say more? 
 
 ---
 <!--
