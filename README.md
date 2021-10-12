@@ -12,7 +12,6 @@ Welcome to my [![Github](https://img.shields.io/badge/-Github-gray?style=flat-sq
 ---
 #### ⚛️ ReactJS & React Native Projects:
 
-(Deprecated) https://gcpwordpress.tk/ - E-Commerce website. Google Cloud, Ubuntu 20.4. Google VPC. Google IAM.<br> 
 Twitter Clone - ReactJS - https://twitter-react-7ec96.web.app/  <br>
 Covid-19 Tracker - Vanilla JavaScript - https://applied-well-308306.firebaseapp.com/  <br>
 Robinhood Clone - ReactJS - https://robinhood-react-84145.web.app/  <br>
@@ -26,7 +25,12 @@ Signal Clone - React Native - https://signal-react-native-6e694.firebaseapp.com/
 Miner Token (MNR) - A Cardano ₳ native cryptocurrency minted with 21 million supply. <br>
 💎 Miner NFT Gems - 6 Cardano ₳ native NFT gems inspired by precious metals. <br>
 FF1Punks ⚔️ Final Fantasy NFTs - Collect your favorite heroes in NFT form from the timeless RPG classic.  <br>
-⚡ Pikachu NFT - Need I say more? 
+⚡ Pikachu NFT - Need I say more? <br>
+
+
+#### ❌ Deprecated Projects:
+(Deprecated) gcpwordpress.tk/ - E-Commerce website. Google Cloud, Ubuntu 20.4. Google VPC. Google IAM.<br> 
+(Deprecated) Defigram - React Native Instagram clone that can accept ETH donations. <br>
 
 ---
 #### 🌐 Socials:
