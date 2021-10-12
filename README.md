@@ -8,7 +8,6 @@ Welcome to my [![Github](https://img.shields.io/badge/-Github-gray?style=flat-sq
 // React.JS && React Native<br>
 // Blockchain Smart Contracts, NFTs<br>
 // Google Cloud Platform, Firebase<br>
-Portfolio: https://kevinroozrokh.github.io/ <br>
 
 ---
 #### ⚛️ ReactJS & React Native Projects:
