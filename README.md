@@ -27,7 +27,7 @@ Miner Token (MNR) - A Cardano ₳ native cryptocurrency minted with 21 million s
 💎 Miner NFT Gems - 6 Cardano ₳ native NFT gems inspired by precious metals. <br>
 FF1Punks ⚔️ Final Fantasy NFTs - Collect your favorite heroes in NFT form from the timeless RPG classic.  <br>
 ⚡ Pikachu NFT - Need I say more? <br>
-KarateXplosion NFT -  Limited edition collection of 4k NFT prints.
+🥋 KarateXplosion NFT -  Limited edition collection of 4k NFT prints.
 
 #### ❌ Deprecated Projects:
 (Deprecated) gcpwordpress.tk/ - E-Commerce website. Google Cloud, Ubuntu 20.4. Google VPC. Google IAM.<br> 
