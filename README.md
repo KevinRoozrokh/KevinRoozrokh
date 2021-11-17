@@ -3,8 +3,8 @@
 My name is `Kevin Roozrokh`. 
 Welcome to my Github.<br>
 
-// React.JS, React Native
-// Google Cloud Platform, Firebase
+// Javascript, React.JS, React Native
+// Google Cloud, Firebase, Linux
 
 ---
 #### 📒 Portfolio:
