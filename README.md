@@ -3,7 +3,7 @@
 My name is `Kevin Roozrokh`. 
 Welcome to my Github.<br>
 
-// Javascript, React.JS, React Native
+// Javascript, React.JS, React Native <br>
 // Google Cloud, Firebase, Linux
 
 ---
