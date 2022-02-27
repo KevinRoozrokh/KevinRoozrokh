@@ -3,8 +3,15 @@
 My name is `Kevin Roozrokh`. 
 Welcome to my Github.<br>
 
+
 // Javascript, React.JS, React Native <br>
 // Google Cloud, Firebase, Linux
+
+---
+#### 🏤 Companies:
+
+@btcminingco
+@atishlabs
 
 ---
 #### 📒 Portfolio:
@@ -26,7 +33,7 @@ Welcome to my Github.<br>
 
 Email: KevRooz@Outlook.com
 
----
+
 <!--
 **KevinRoozrokh/KevinRoozrokh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
