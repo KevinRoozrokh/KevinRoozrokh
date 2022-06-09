@@ -4,9 +4,10 @@ My name is `Kevin Roozrokh`.
 Welcome to my Github.<br>
 
 
-// Javascript, React.JS, React Native <br>
-// Google Cloud, Firebase, Linux
-// Web3, 
+// HTML, CSS, Javascript, PHP  <br>
+// React.JS, React Native, Vue.js, Expo, Flutter, Typescript <br>
+// Google Cloud, Firebase, Linux <br>
+// Solidity, Web3, Smart Contracts, Truffle, IPFS <br>
 
 ---
 #### 📒 Portfolio: https://KevinRoozrokh.com
