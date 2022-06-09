@@ -6,12 +6,7 @@ Welcome to my Github.<br>
 
 // Javascript, React.JS, React Native <br>
 // Google Cloud, Firebase, Linux
-
----
-#### 🏤 Companies:
-
-@btcminingco
-@atishlabs
+// Web3, 
 
 ---
 #### 📒 Portfolio: https://KevinRoozrokh.com
