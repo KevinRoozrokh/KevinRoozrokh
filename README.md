@@ -10,9 +10,9 @@ Welcome to my Github.<br>
 // Solidity, Web3, Smart Contracts, Truffle, IPFS <br>
 
 ---
-#### 📒 Portfolio: https://KevinRoozrokh.com
-
-[![Github.io](https://img.shields.io/badge/-Github.io-black?style=flat-square&logo=Github&logoColor=white)](https://kevinroozrokh.github.io/)
+#### 📒 Portfolio: [![Github.io](https://img.shields.io/badge/-Github.io-black?style=flat-square&logo=Github&logoColor=white)](https://kevinroozrokh.github.io/)
+#### 🏢 Company: https://BTCminingco.com
+#### 💼 Company LinkedIn: https://www.linkedin.com/company/btcminingco/
 
 ---
 
