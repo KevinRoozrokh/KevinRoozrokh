@@ -1,6 +1,8 @@
 ---
 
 My name is `Kevin Roozrokh`. 
+CTO of Vanguard Healthcare Solutions<br>
+Founder of Bitcoin Mining Corporation<br>
 Welcome to my Github.<br>
 
 
