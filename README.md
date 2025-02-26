@@ -1,8 +1,9 @@
 ---
 
-My name is `Kevin Roozrokh`.<br>
-Welcome to my Github. Open to remote principal and senior level software engineering contract work. <br> Check out my skill set below. <br>I learn really fast, so if it is new or edge computing tech, count me in. <br>
-I'm much faster at completing finished software than AI. I tested it. AI can't be me. Not even close. I tried. <br>
+My name is `Kevin Roozrokh`. <br>
+Welcome to my Github. <br>
+Open to remote `principal` / `senior level` software engineering `contract work`. 
+<br> Check out my skill set below. 
 
 ---
 #### Patents written = 19 <br>
@@ -25,6 +26,7 @@ Certifications: ITIL v3, CSM, A+, Network+, Security+ <br><br>
 
 ---
 #### Recent Education: Harvard - CS50, MIT - Algorithms <br><br>
+
 ---
 #### 🌐 Socials:
 
@@ -37,7 +39,13 @@ Certifications: ITIL v3, CSM, A+, Network+, Security+ <br><br>
 ---
 #### ✉️ Contact: Email: [KevRooz@Outlook.com
 
-
+----
+#### Some Thought about AI:
+<br>I learn really fast. New tech or edge computing? Count me in. <br>
+I'm much faster at completing finished software than AI. <br>
+Cool compliment, but, kinda disappointing, AI should be smarter. <br>
+Sure it can code a simple code snippet fast, give insturctions. Design, invent and build a complex systen, do the documentation, than code it, setup hybrid cloud server, host the website or app, change DNS to private, ptoect IP from cyber attacks with CloudFlare than create me automated AI Agents to automate tedious things faster than me? Not even close.
+I tested it. AI can't be me. Not even close. I tried. <br>
 <!--
 **KevinRoozrokh/KevinRoozrokh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
