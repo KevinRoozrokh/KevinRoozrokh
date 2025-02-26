@@ -19,7 +19,7 @@ Favorite video game? The stock market.
 ---
 #### ®️ Patents
 
-Patents written = 19 <br>
+Patents Written = 19 <br>
 Patents Pending = 9 <br>
 
 ---
