@@ -38,10 +38,10 @@ Patents Pending = 9 <br>
 
 #### 🏛️ Recent Education <br>
 
-HarvardX - Harvard University<br>
+`HarvardX` - Harvard University <br>
 CS50, CS50W, CS50M, CS50AI
 
-MIT OpenCourseWare - Massachusetts Institute of Technology<br>
+`MIT OpenCourseWare` - Massachusetts Institute of Technology<br>
 6.006 Intro to Algorithms, 6.046J Design and Analysis of Algorithms, 6.851 Advanced Data Structures, 6.854 Advanced Algorithms, 6.890 Algorithmic Lower Bounds <br><br>
 
 ---
