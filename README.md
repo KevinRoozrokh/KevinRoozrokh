@@ -23,14 +23,14 @@ Patents Pending = 9 <br>
 ---
 
 #### Technical Skills
-Programming Languages: CSS, HTML, JavaScript, PHP, Solidity, SQL, UNIX <br>
-Artificial Intelligence: OpenAI API, Gemini API, Claude API, Meta API <br>
-Machine Learning Models: ChatGPT, Gemini, DeepSeek, Perplexity, Llama <br>
-Cloud Platforms: AWS, Google Cloud, Firebase, DynamoDB, MongoDB <br>
-Blockchain: Smart Contracts, Web3, Bitcoin/Ethereum Mining, IPFS, Ganache <br>
-Frameworks: React, Node.js, Express.js, Flutter, Vue.js, TypeScript <br>
-Operating Systems: Linux, Windows Server, MacOS, Android, iOS <br>
-Certifications: ITIL v3, CSM, A+, Network+, Security+ <br><br>
+`Programming Languages:` CSS, HTML, JavaScript, PHP, Solidity, SQL, UNIX <br>
+`Artificial Intelligence:` OpenAI ChatGPT API, Google Gemini API, Meta Llama, DeepSeek R1, Claude, Perplexity<br>
+`Machine Learning Models:` TensorFlow, PyTorch, NLP, Computer Vision, Deep Learning, LLMOps <br>
+`Cloud Platforms:` AWS, Google Cloud, Firebase, DynamoDB, MongoDB <br>
+`Blockchain:` Smart Contracts, Web3, Bitcoin/Ethereum Mining, IPFS, Ganache <br>
+`Frameworks:` React, Node.js, Express.js, Flutter, Vue.js, TypeScript <br>
+`Operating Systems:` Linux, Windows Server, MacOS, Android, iOS <br>
+`Certifications:` ITIL v3, CSM, A+, Network+, Security+ <br><br>
 
 ---
 
