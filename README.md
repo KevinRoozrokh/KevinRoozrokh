@@ -12,8 +12,9 @@ I learn stupid fast. New tech, framework or edge computing? Count me in. <br>
 I'm much faster at completing finished software than AI. <br>
 I tested it. AI can't out code an engineer at my level. Not even close. I tried. <br>
 I am really, really good at `inventing, designing, writing, researching and submitting patents`. <br>
-So much better than a patent attorney, I can have any patent from idea to USPTO pending in less than 24 hours. <br>
-Besides tech, I love animals, classical music, Formula 1 Racing, and Stocks.
+So much better than a patent attorney, I can have any patent from idea to USPTO pending in less than 24 hours. <br><br>
+Besides tech, I love animals, classical music, cars & Formula 1 Racing. <br> 
+Favorite video game? The stock market. 
 
 ---
 #### ®️ Patents
@@ -37,10 +38,10 @@ Patents Pending = 9 <br>
 
 #### 🏛️ Recent Education <br>
 
-HarvardX - Harvard University from 2019-2020
+HarvardX - Harvard University<br>
 CS50, CS50W, CS50M, CS50AI
 
-MIT OpenCourseWare - Massachusetts Institute of Technology from 2020-2021
+MIT OpenCourseWare - Massachusetts Institute of Technology<br>
 6.006 Intro to Algorithms, 6.046J Design and Analysis of Algorithms, 6.851 Advanced Data Structures, 6.854 Advanced Algorithms, 6.890 Algorithmic Lower Bounds <br><br>
 
 ---
