@@ -8,7 +8,7 @@ Check out my skill set below.
 ---
 
 #### About Me:
-I learn really fast. New tech or edge computing? Count me in. <br>
+I learn really fast. New tech, framework or edge computing? Count me in. <br>
 I'm much faster at completing finished software than AI. <br>
 I tested it. AI can't out code an engineer at my level. Not even close. I tried. <br>
 I am really, really good at `writing and researching patents`. <br>
@@ -19,14 +19,6 @@ Besides tech, I love animals, classical music, Formula 1 Racing, and Stocks.
 
 Patents written = 19 <br>
 Patents Pending = 9 <br>
-
-#### Patent Writing Service
-We sign an NDA. <br>
-Explain your idea, in detail, in writing. <br>
-An invoice will be created. You sign. <br>
-I will have your patent done, paid for and submitted in 7 days, unlimited edits. <br>
-You pay invoice. <br>
-Now you are a genius inventor and can brag to all you friends! <br>
 
 ---
 
@@ -67,15 +59,8 @@ MIT OpenCourseWare - Massachusetts Institute of Technology from 2020-2021
 #### ✉️ Contact: Email: [KevRooz@Outlook.com
 
 ----
-#### Thoughts about AI
-<br>I learn really fast. New tech or edge computing? Count me in. <br>
-I'm much faster at completing finished software than AI. <br>
-Cool compliment, but, kinda disappointing, AI should be smarter. <br>
-Sure it can code a simple code snippet fast, give insturctions. Like a shopify store. Nothing that can scale to billions of users. <br>
-Can it do what I do? Like design, invent, patent and build an automated AI complex system, do the documentation, than code it. No. <br>
-I tested it. AI can't an engineer at my level. Not even close. I tried. <br><br>
-I will have your patent done, paid for and submitted in 7 days, unlimited edits. No atoorney needed. <br>
-My point, I make my client's wealthy. Very wealthy. Hiring me, is a good idea. <br>
+#### Why You Should Hire Me
+My ideas have made my family, friends, and client's wealthy. Very wealthy. Hiring me is a good idea. <br>
 
 <!--
 **KevinRoozrokh/KevinRoozrokh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
