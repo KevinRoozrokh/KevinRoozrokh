@@ -6,8 +6,17 @@ Open to remote `principal` / `senior level` software engineering `contract work`
 <br> Check out my skill set below. 
 
 ---
-#### ®️ Patents written = 19 <br>
-Patents Pending = 9 <br>
+#### ®️ Patents
+
+Patents written = 19 <br>
+Patents Pending = 9 <br><br>
+I am really, really good at writing patents. <br>
+We sign an NDA. <br>
+Explain your idea. <br>
+An invoice will be created. <br>
+I will have your patent done in 7 days, patent pending. <br>
+You pay invoice. (Now youare are a genius inventor and can brag to all you friends. <br
+
 
 ---
 
