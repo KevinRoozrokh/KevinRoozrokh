@@ -11,7 +11,7 @@ Check out my skill set below.
 I learn stupid fast. New tech, framework or edge computing? Count me in. <br>
 I'm much faster at completing finished software than AI. <br>
 I tested it. AI can't out code an engineer at my level. Not even close. I tried. <br>
-I am really, really good at `writing and researching patents`. <br>
+I am really, really good at `inventing, designing, writing, researching and submitting patents`. <br>
 Besides tech, I love animals, classical music, Formula 1 Racing, and Stocks.
 
 ---
