@@ -1,13 +1,12 @@
 ---
 
 My name is `Kevin Roozrokh`.<br>
-Welcome to my Github.<br>
+Welcome to my Github. Open to remote principal and senior level software engineering contract work. <br> Check out my skill set below. <br>I learn really fast, so if it is new or edge computing tech, count me in. <br>
+I'm much faster at completing finished software than AI. I tested it. AI can't be me. Not even close. I tried. <br>
 
-
-// HTML, CSS, Javascript, PHP  <br>
-// React.JS, React Native, Vue.js, Expo, Flutter, Typescript <br>
-// Google Cloud, Firebase, Linux <br>
-// Solidity, Web3, Smart Contracts, Truffle, IPFS <br>
+---
+#### Patents written = 19 <br>
+Patents Pending = 9 <br>
 
 ---
 #### 📒 Portfolio: [![Github.io](https://img.shields.io/badge/-Github.io-black?style=flat-square&logo=Github&logoColor=white)](https://kevinroozrokh.github.io/)
@@ -15,15 +14,17 @@ Welcome to my Github.<br>
 ---
 
 Technical Skills
-Programming Languages: CSS, HTML, JavaScript, PHP, Solidity, SQL, UNIX
-Artificial Intelligence: OpenAI API, Gemini API, Claude API, Meta API
-Machine Learning Models: ChatGPT, Gemini, DeepSeek, Perplexity, Llama
-Cloud Platforms: AWS, Google Cloud, Firebase, DynamoDB, MongoDB
-Blockchain: Smart Contracts, Web3, Bitcoin/Ethereum Mining, IPFS, Ganache
-Frameworks: React, Node.js, Express.js, Flutter, Vue.js, TypeScript
-Operating Systems: Linux, Windows Server, MacOS, Android, iOS
-Certifications: ITIL v3, CSM, A+, Network+, Security+, Harvard - CS50, MIT - Algorithms
+Programming Languages: CSS, HTML, JavaScript, PHP, Solidity, SQL, UNIX <br>
+Artificial Intelligence: OpenAI API, Gemini API, Claude API, Meta API <br>
+Machine Learning Models: ChatGPT, Gemini, DeepSeek, Perplexity, Llama <br>
+Cloud Platforms: AWS, Google Cloud, Firebase, DynamoDB, MongoDB <br>
+Blockchain: Smart Contracts, Web3, Bitcoin/Ethereum Mining, IPFS, Ganache <br>
+Frameworks: React, Node.js, Express.js, Flutter, Vue.js, TypeScript <br>
+Operating Systems: Linux, Windows Server, MacOS, Android, iOS <br>
+Certifications: ITIL v3, CSM, A+, Network+, Security+ <br><br>
 
+---
+#### Recent Education: Harvard - CS50, MIT - Algorithms <br><br>
 ---
 #### 🌐 Socials:
 
@@ -34,9 +35,7 @@ Certifications: ITIL v3, CSM, A+, Network+, Security+, Harvard - CS50, MIT - Alg
 [![Medium](https://img.shields.io/badge/-Medium-white?style=flat-square&logo=Medium&logoColor=black)](https://medium.com/@kroozrokh)
 
 ---
-#### ✉️ Contact:
-
-Email: [KevRooz@Outlook.com
+#### ✉️ Contact: Email: [KevRooz@Outlook.com
 
 
 <!--
