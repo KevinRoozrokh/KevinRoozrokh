@@ -11,14 +11,10 @@ Some details about me & skill set below.
 I started coding when I was a kid, with that in mind... <br>
 `I have 30 years of coding experience.` <br>
 I learn stupid fast. New tech, framework or edge computing? Count me in. <br><br>
-
 I'm much faster at completing finished software than AI. <br>
-I tested it. Not even close. I tried. <br>
-Example: I coded a proprietary LLM from an open source LLM model that can code LLMs and wrote the patent... <br> 
-Faster than ChatGPT could code a working Shopify store with products for sale. <br><br> 
-
-I am ridiculously good at `inventing, researching, designing, writing, coding, and submitting patents`. <br>
-I to submitable patent in less than 24 hours, and USPTO patent pending in less than 7 days. <br><br>
+I tested it. Not even close. I tried. I make less mistakes too. <br><br>
+I am ridiculously good at writing `patents.` <br>
+Just give me a unique idea and I will have it USPTO patent pending in less than 7 days. <br><br>
 Besides tech, I love animals, classical music, cars & Formula 1 Racing. <br> 
 Favorite video game? The stock market. 
 
