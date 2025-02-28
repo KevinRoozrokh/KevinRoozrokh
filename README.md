@@ -1,16 +1,22 @@
 ---
 
 My name is `Kevin Roozrokh`. <br>
-Welcome to my Github. <br>
-Open to remote `principal` / `senior level` software engineering `contract work`. 
-Check out my skill set below. 
+Welcome to my [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh/KevinRoozrokh). <br>
+Open to remote `principal` / `senior level` software engineering `contract work`. <br>
+Some details about me & skill set below. 
 
 ---
 
 #### About Me:
-I learn stupid fast. New tech, framework or edge computing? Count me in. <br>
+I started coding when I was a kid, with that in mind... <br>
+`I have 30 years of coding experience.` <br>
+I learn stupid fast. New tech, framework or edge computing? Count me in. <br><br>
+
 I'm much faster at completing finished software than AI. <br>
 I tested it. Not even close. I tried. <br>
+Example: I coded a proprietary LLM from an open source LLM model that can code LLMs and wrote the patent... <br> 
+Faster than ChatGPT could code a working Shopify store with products for sale. <br><br> 
+
 I am ridiculously good at `inventing, researching, designing, writing, coding, and submitting patents`. <br>
 I to submitable patent in less than 24 hours, and USPTO patent pending in less than 7 days. <br><br>
 Besides tech, I love animals, classical music, cars & Formula 1 Racing. <br> 
@@ -50,7 +56,7 @@ CS50 Computer Science, CS50W Web Programming, CS50M Mobile Apps, CS50AI Artifici
 
 ---
 
-#### 🌐Socials [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh)[![Linkedin](https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-roozrokh/)[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kevinkayvan/)[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/donkayvan/)[![Medium](https://img.shields.io/badge/-Medium-white?style=flat-square&logo=Medium&logoColor=black)](https://medium.com/@kroozrokh)
+#### 🌐Socials [![Linkedin](https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-roozrokh/)[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kevinkayvan/)[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/donkayvan/)[![Medium](https://img.shields.io/badge/-Medium-white?style=flat-square&logo=Medium&logoColor=black)](https://medium.com/@kroozrokh)
 
 ---
 #### ✉️<a href="RoozrokhK@Gmail.com">Contact Email</a>
