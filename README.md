@@ -12,20 +12,20 @@ I started coding when I was a kid, with that in mind... <br>
 `I have 30 years of coding experience.` <br>
 I learn stupid fast. New tech, framework or edge computing? Count me in. <br><br>
 I'm much faster at completing finished software than AI. <br>
-I tested it. Not even close. I tried. I make less mistakes too. <br><br>
+I tested it. I make less mistakes too. <br><br>
 I am ridiculously good at writing `patents.` <br>
-Just give me a unique idea and I will have it USPTO patent pending in less than 7 days. <br><br>
+(The whole process: inventing, researching, designing, writing, coding, diagrams and submitting patents)<br>
 Besides tech, I love animals, classical music, cars & Formula 1 Racing. <br> 
 Favorite video game? The stock market. 
 
 ---
+
 #### ®️Patents
 
 Patents Written = 19 <br>
 💡Patents Pending = 9 <br>
 
 ---
-
 
 #### <img src="react-emoji-icon.jpg" alt="Trulli" width="20" height="20"> Technical Skills
 `Programming Languages:` JavaScript, CSS, HTML, PHP, Solidity, SQL, UNIX <br>
@@ -55,11 +55,11 @@ CS50 Computer Science, CS50W Web Programming, CS50M Mobile Apps, CS50AI Artifici
 #### 🌐Socials [![Linkedin](https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-roozrokh/)[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kevinkayvan/)[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/donkayvan/)[![Medium](https://img.shields.io/badge/-Medium-white?style=flat-square&logo=Medium&logoColor=black)](https://medium.com/@kroozrokh)
 
 ---
+
 #### ✉️<a href="RoozrokhK@Gmail.com">Contact Email</a>
 
-
-
 ----
+
 #### Why You Should Hire Me
 My ideas have made my family, friends, and client's wealthy. Very wealthy. Hiring me is a good idea. <br>
 
