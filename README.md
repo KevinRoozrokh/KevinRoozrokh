@@ -13,10 +13,7 @@ I started coding when I was a kid, with that in mind... <br>
 I learn stupid fast. New tech, framework or edge computing? Count me in. <br><br>
 I'm much faster at completing finished software than AI. <br>
 I tested it. I make less mistakes too. <br><br>
-I am ridiculously good at writing `patents.` <br>
-(The whole process: inventing, researching, designing, writing, coding, diagrams and submitting patents)<br>
-Besides tech, I love animals, classical music, cars & Formula 1 Racing. <br> 
-Favorite video game? The stock market. 
+Also, I am ridiculously good at writing `patents.` <br>
 
 ---
 
