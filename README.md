@@ -1,7 +1,7 @@
 ---
 
 My name is `Kevin Roozrokh`. <br>
-Welcome to my [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh/KevinRoozrokh). <br>
+Welcome to my [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh/KevinRoozrokh) ReadMe. <br>
 Open to remote `principal` / `senior level` software engineering `contract work`. <br>
 Some details about me & skill set below. 
 
