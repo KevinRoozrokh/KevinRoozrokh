@@ -10,14 +10,14 @@ Check out my skill set below.
 #### About Me:
 I learn stupid fast. New tech, framework or edge computing? Count me in. <br>
 I'm much faster at completing finished software than AI. <br>
-I tested it. AI can't at my level. Not even close. I tried. <br>
+I tested it. Not even close. I tried. <br>
 I am ridiculously good at `inventing, designing, writing, researching and submitting patents`. <br>
 I to submitable patent in less than 24 hours, and USPTO patent pending in less than 7 days. <br><br>
 Besides tech, I love animals, classical music, cars & Formula 1 Racing. <br> 
 Favorite video game? The stock market. 
 
 ---
-#### ®️ Patents
+#### ®️Patents
 
 Patents Written = 19 <br>
 💡Patents Pending = 9 <br>
@@ -37,7 +37,7 @@ Patents Written = 19 <br>
 
 ---
 
-#### 🏛️ Recent Education <br>
+#### 🏛️Recent Education <br>
 
 `HarvardX` - Harvard University <br>
 CS50 Computer Science, CS50W Web Programming, CS50M Mobile Apps, CS50AI Artificial Intelligence with Python
@@ -46,14 +46,16 @@ CS50 Computer Science, CS50W Web Programming, CS50M Mobile Apps, CS50AI Artifici
 6.006 Intro to Algorithms, 6.046J Design and Analysis of Algorithms, 6.851 Advanced Data Structures, 6.854 Advanced Algorithms, 6.890 Algorithmic Lower Bounds <br><br>
 
 ---
-#### 📒 Portfolio [![Github.io](https://img.shields.io/badge/-Github.io-black?style=flat-square&logo=Github&logoColor=white)](https://kevinroozrokh.github.io/)
+#### 📒Portfolio [![Github.io](https://img.shields.io/badge/-Github.io-black?style=flat-square&logo=Github&logoColor=white)](https://kevinroozrokh.github.io/)
 
 ---
 
-#### 🌐 Socials [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh)[![Linkedin](https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-roozrokh/)[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kevinkayvan/)[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/donkayvan/)[![Medium](https://img.shields.io/badge/-Medium-white?style=flat-square&logo=Medium&logoColor=black)](https://medium.com/@kroozrokh)
+#### 🌐Socials [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh)[![Linkedin](https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-roozrokh/)[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kevinkayvan/)[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/donkayvan/)[![Medium](https://img.shields.io/badge/-Medium-white?style=flat-square&logo=Medium&logoColor=black)](https://medium.com/@kroozrokh)
 
 ---
-#### ✉️ Contact Email: RoozrokhK@Gmail.com
+#### ✉️<a href="RoozrokhK@Gmail.com">Contact Email</a>
+
+
 
 ----
 #### Why You Should Hire Me
