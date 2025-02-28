@@ -10,7 +10,7 @@ Some details about me & skill set below.
 #### About Me:
 I started coding when I was a kid, with that in mind... <br>
 `I have 30 years of coding experience.` <br>
-I learn stupid fast. New tech, framework or edge computing? Count me in. <br><br>
+New tech, framework or edge computing? Count me in. <br><br>
 I'm much faster at completing finished software than AI. <br>
 I tested it. I make less mistakes too. <br><br>
 Also, I am ridiculously good at writing `patents.` <br>
