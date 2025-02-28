@@ -3,19 +3,24 @@
 My name is `Kevin Roozrokh`. <br>
 Welcome to my [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh/KevinRoozrokh) ReadMe. <br>
 Open to remote `principal` / `senior level` software engineering `contract work`. <br>
-Some details about me & skill set below. 
+To request a resume, email address is below.
 
 ---
 
-#### About Me:
+#### About Me
 I started coding when I was a kid, with that in mind... <br>
 `I have 30 years of coding experience.` <br>
+
+#### 📒Portfolio [![Github.io](https://img.shields.io/badge/-Github.io-black?style=flat-square&logo=Github&logoColor=white)](https://kevinroozrokh.github.io/)
+
+---
+
+#### Coding 
+
 New tech, framework or edge computing? Count me in. <br><br>
 I'm much faster at completing finished software than AI. <br>
 I tested it. I make less mistakes too. <br><br>
 Also, I am ridiculously good at writing `patents.` <br>
-
----
 
 #### ®️Patents
 
@@ -45,9 +50,6 @@ CS50 Computer Science, CS50W Web Programming, CS50M Mobile Apps, CS50AI Artifici
 6.006 Intro to Algorithms, 6.046J Design and Analysis of Algorithms, 6.851 Advanced Data Structures, 6.854 Advanced Algorithms, 6.890 Algorithmic Lower Bounds <br><br>
 
 ---
-#### 📒Portfolio [![Github.io](https://img.shields.io/badge/-Github.io-black?style=flat-square&logo=Github&logoColor=white)](https://kevinroozrokh.github.io/)
-
----
 
 #### 🌐Socials [![Linkedin](https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-roozrokh/)[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kevinkayvan/)[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/donkayvan/)[![Medium](https://img.shields.io/badge/-Medium-white?style=flat-square&logo=Medium&logoColor=black)](https://medium.com/@kroozrokh)
 
@@ -58,7 +60,7 @@ CS50 Computer Science, CS50W Web Programming, CS50M Mobile Apps, CS50AI Artifici
 ----
 
 #### Why You Should Hire Me
-My expertise makes companies wealthy. Very wealthy. Simple as that.<br>
+My expertise makes banks and companies wealthy. Very wealthy. Simple as that.<br>
 
 <!--
 **KevinRoozrokh/KevinRoozrokh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
