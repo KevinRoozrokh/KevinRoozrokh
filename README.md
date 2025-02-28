@@ -10,7 +10,7 @@ Check out my skill set below.
 #### About Me:
 I learn stupid fast. New tech, framework or edge computing? Count me in. <br>
 I'm much faster at completing finished software than AI. <br>
-I tested it. AI can't out code an engineer at my level. Not even close. I tried. <br>
+I tested it. AI can't at my level. Not even close. I tried. <br>
 I am ridiculously good at `inventing, designing, writing, researching and submitting patents`. <br>
 I to submitable patent in less than 24 hours, and USPTO patent pending in less than 7 days. <br><br>
 Besides tech, I love animals, classical music, cars & Formula 1 Racing. <br> 
@@ -20,17 +20,18 @@ Favorite video game? The stock market.
 #### ®️ Patents
 
 Patents Written = 19 <br>
-Patents Pending = 9 <br>
+💡Patents Pending = 9 <br>
 
 ---
 
-#### Technical Skills
-`Programming Languages:` CSS, HTML, JavaScript, PHP, Solidity, SQL, UNIX <br>
+
+#### <img src="react-emoji-icon.jpg" alt="Trulli" width="20" height="20"> Technical Skills
+`Programming Languages:` JavaScript, CSS, HTML, PHP, Solidity, SQL, UNIX <br>
+`Frameworks:` React, ReactJS, React Native, Node.js, Express.js, Flutter, Vue.js, TypeScript <br>
 `Artificial Intelligence:` OpenAI ChatGPT API, Google Gemini API, Meta Llama, DeepSeek R1, Claude, Perplexity<br>
 `Machine Learning Models:` TensorFlow, PyTorch, NLP, Computer Vision, Deep Learning, LLMOps <br>
 `Cloud Platforms:` AWS, Google Cloud, Firebase, DynamoDB, MongoDB <br>
 `Blockchain:` Smart Contracts, Web3, Bitcoin/Ethereum Mining, IPFS, Ganache <br>
-`Frameworks:` React, Node.js, Express.js, Flutter, Vue.js, TypeScript <br>
 `Operating Systems:` Linux, Windows Server, MacOS, Android, iOS <br>
 `Certifications:` ITIL v3, CSM, A+, Network+, Security+ <br><br>
 
