@@ -58,7 +58,7 @@ CS50 Computer Science, CS50W Web Programming, CS50M Mobile Apps, CS50AI Artifici
 ----
 
 #### Why You Should Hire Me
-My ideas have made my family, friends, and client's wealthy. Very wealthy. Hiring me is a good idea. <br>
+My expertise makes companies wealthy. Very wealthy. Simple as that.<br>
 
 <!--
 **KevinRoozrokh/KevinRoozrokh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
