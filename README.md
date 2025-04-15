@@ -17,20 +17,22 @@ I started coding when I was a kid, with that in mind... <br>
 
 #### Coding 
 
-New tech, framework or edge computing? Count me in. <br><br>
-I'm much faster at completing finished software than AI. <br>
+AI, Crypto, Blockchain, or edge computing? Count me in. <br><br>
+I have trained 100s of GPTs, MCPs and AI Agents to do all my work with me or for me, depending on the requirements.<br>
+Vibe coding ninja, my personal record? Completing 3 applications in one day.<br>
+Although AI can code faster than any human, I make significantly less mistakes when completing, and deploying finished software. <br>
 I tested it. I make less mistakes too. <br><br>
 Also, I am ridiculously good at writing `patents.` <br>
 
 #### ®️Patents
 
-Patents Written = 19 <br>
-💡Patents Pending = 9 <br>
+Patents Written = 24 <br>
+💡Patents Pending = 11 <br>
 
 ---
 
 #### <img src="react-emoji-icon.jpg" alt="Trulli" width="20" height="20"> Technical Skills
-`Programming Languages:` JavaScript, CSS, HTML, PHP, Solidity, SQL, UNIX <br>
+`Programming Languages:` JavaScript, CSS, HTML, PHP, Solidity, SQL, UNIX, Python <br>
 `Frameworks:` React, ReactJS, React Native, Node.js, Express.js, Flutter, Vue.js, TypeScript <br>
 `Artificial Intelligence:` OpenAI ChatGPT API, Google Gemini API, Meta Llama, DeepSeek R1, Claude, Perplexity<br>
 `Machine Learning Models:` TensorFlow, PyTorch, NLP, Computer Vision, Deep Learning, LLMOps <br>
