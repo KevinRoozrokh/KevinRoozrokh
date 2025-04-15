@@ -2,7 +2,7 @@
 
 My name is `Kevin Roozrokh`. <br>
 Welcome to my [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh/KevinRoozrokh) ReadMe. <br>
-Open to remote `principal` / `senior level` software engineering `contract work`. <br>
+Open to remote `CTO` / `principal` / `senior level` software engineering `contract work`. <br>
 To request a resume, email address is below.
 
 ---
@@ -12,22 +12,31 @@ I started coding when I was a kid, with that in mind... <br>
 `I have 30 years of coding experience.` <br>
 
 #### 📒Portfolio [![Github.io](https://img.shields.io/badge/-Github.io-black?style=flat-square&logo=Github&logoColor=white)](https://kevinroozrokh.github.io/)
+Portfolio needs updating, ask for a resume.
 
 ---
 
 #### Coding 
 
 AI, Crypto, Blockchain, or edge computing? Count me in. <br><br>
-I have trained 100s of GPTs, MCPs and AI Agents to do all my work with me or for me, depending on the requirements.<br>
-Vibe coding ninja, my personal record? Completing 3 applications in one day.<br>
-Although AI can code faster than any human, I make significantly less mistakes when completing, and deploying finished software. <br>
-I tested it. I make less mistakes too. <br><br>
+I have trained 100s of GPTs, MCPs and AI Agents, I can scale any business, sector is irrelevant.<br>
+Vibe coding ninja. At times, I have up to 4 AIs coding simultaneously.<br>
+AI can code faster than a human, but I make less mistakes when completing, and deploying finished software. <br>
+I've tested enough language models to be certain. I tried. <br><br>
 Also, I am ridiculously good at writing `patents.` <br>
 
 #### ®️Patents
 
 Patents Written = 24 <br>
 💡Patents Pending = 11 <br>
+
+#### Open Source Contributions
+I would need pages to tell about them all, but here are 5 I am proud of.<br><br>
+• Collaborated long ago to help build the cybersecurity Linux distribution called Backtrack Linux, predecessor to Kali Linux.<br>
+• Coded .kext files for the OSx86project project. These PC builds are now known as a hackintosh.<br>
+• Contributed code to help build the Cardano ADA Blockchain.<br>
+• Coded modern Bitcoin and Ethereum mining calculators.<br>
+• Custom coded a no code ERC-20 token and ERC-721 token generator.<br>
 
 ---
 
