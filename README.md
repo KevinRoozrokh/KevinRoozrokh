@@ -32,7 +32,7 @@ Patents Written = 24 <br>
 
 #### Open Source Contributions
 I would need pages to tell about them all, but here are 5 I am proud of.<br><br>
-• Collaborated long ago to help build the cybersecurity Linux distribution called Backtrack Linux, predecessor to Kali Linux.<br>
+• Collaborated to help build the cybersecurity Linux distribution called Backtrack Linux, predecessor to Kali Linux.<br>
 • Coded .kext files for the OSx86project project. These PC builds are now known as a hackintosh.<br>
 • Contributed code to help build the Cardano ADA Blockchain.<br>
 • Coded modern Bitcoin and Ethereum mining calculators.<br>
