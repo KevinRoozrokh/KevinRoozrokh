@@ -6,7 +6,8 @@ Welcome to my [![Github](https://img.shields.io/badge/-Github-gray?style=flat-sq
 Founder of <br>
 <a href="https://strawhatai.com" target="_blank">
   <img src="https://strawhatai.com/images/Straw-Hat-AI-enterprise-banner-jpg.jpg" alt="Straw Hat Enterprise AI" width="400" height="120"/>
-</a>
+</a><br>
+https://github.com/StrawHatAI/
 <br>
 Straw Hat Enterprise AI's mission is to invent and support novel turn-key enterprise AI solutions for mission critical operations.
 
