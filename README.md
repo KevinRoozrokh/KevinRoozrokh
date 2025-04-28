@@ -3,7 +3,10 @@
 My name is `Kevin Roozrokh`. <br>
 Welcome to my [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh/KevinRoozrokh) ReadMe. 
 <br>
-Founder of [![Github](https://strawhatai.com/images/Straw-Hat-AI-Icon.ico.jpgjpg)](https://strawhatai.com)
+Founder of <br>
+<a href="https://strawhatai.com" target="_blank">
+  <img src="https://strawhatai.com/images/Straw-Hat-AI-enterprise-banner-jpg.jpg" alt="Straw Hat Enterprise AI" width="400" height="120"/>
+</a>
 <br>
 Open to remote `CTO` / `principal` / `senior level` software engineering `contract work`. <br>
 To request a resume, email address is below.
