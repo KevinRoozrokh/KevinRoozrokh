@@ -8,7 +8,12 @@ Founder of <br>
   <img src="https://strawhatai.com/images/Straw-Hat-AI-enterprise-banner-jpg.jpg" alt="Straw Hat Enterprise AI" width="400" height="120"/>
 </a>
 <br>
-Open to remote `CTO` / `principal` / `senior level` software engineering `contract work`. <br>
+Straw Hat Enterprise AI's mission is to invent and support novel turn-key enterprise AI solutions for mission critical operations.
+
+Straw Hat Enterprise AI's vision is to build a future where AI serves as a force for good, unlocking human potential by solving the world's most pressing challenges creating a more equitable and sustainable future for all.
+<br><br>
+Straw Hat Enterprise AI's senior software engineering team is open to `Collaborations` / `Partnerships` / `CTO` / `principal` / `senior level` software engineering `contract work`. <br>
+`Non-negotiable` - Your project, cause, team and/or organization must adhere to a high level of ethics and integrity.<br>
 To request a resume, email address is below.
 
 ---
