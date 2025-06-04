@@ -1,31 +1,32 @@
 ---
 
-My name is `Kevin Roozrokh`. <br>
+My name is `Kevin Roozrokh`™. <br>
 Welcome to my [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh/KevinRoozrokh) ReadMe. 
 <br>
 Founder of <br>
 <a href="https://strawhatai.com" target="_blank">
   <img src="https://strawhatai.com/images/Straw-Hat-AI-enterprise-banner-jpg.jpg" alt="Straw Hat Enterprise AI" width="400" height="120"/>
 </a><br>
-Straw Hat Enterprise AI's - 
+Straw Hat Enterprise AI™'s - 
 [![Github.io](https://img.shields.io/badge/-Github.io-black?style=flat-square&logo=Github&logoColor=white)](https://github.com/StrawHatAI/)
 <br>
-Straw Hat Enterprise AI's mission is to invent and support novel turn-key enterprise AI solutions for mission critical operations.
+Straw Hat Enterprise AI™'s mission is to invent and support novel turn-key enterprise AI solutions for mission critical operations.
 
-Straw Hat Enterprise AI's vision is to build a future where AI serves as a force for good, unlocking human potential by solving the world's most pressing challenges creating a more equitable and sustainable future for all.
+Straw Hat Enterprise AI™'s vision is to build a future where AI serves as a force for good, unlocking human potential by solving the world's most pressing challenges creating a more equitable and sustainable future for all.
 <br><br>
-Straw Hat Enterprise AI's senior software engineering team is open to `Collaborations` / `Partnerships` / `CTO` / `principal` / `senior level` software engineering `contract work`. <br>
+Straw Hat Enterprise AI™'s senior software engineering team is open to `Collaborations` / `Partnerships` / `CTO` / `principal` / `senior level` software engineering `contract work`. <br>
 `Non-negotiable` - Your project, cause, team and/or organization must adhere to a high level of ethics and integrity.<br>
-To request a resume, email address is below.
+To send a resume, email address is below.
 
 ---
 
 #### About Me
-I started coding when I was a kid, with that in mind... <br>
-`I have 30 years of coding experience.` <br>
+I started coding when I was 11 at Randolph Macon Airforce Academy in Front Royal Virginia, with that in mind... <br>
+`I have 30+ years of coding experience.` <br>
 
 #### 📒Portfolio [![Github.io](https://img.shields.io/badge/-Github.io-black?style=flat-square&logo=Github&logoColor=white)](https://kevinroozrokh.github.io/)
-Portfolio needs updating, ask for a resume.
+Last portfolio update: 2022
+New portfolio: StrawHatAI.com
 
 ---
 
@@ -40,8 +41,8 @@ Also, I am ridiculously good at writing `patents.` <br>
 
 #### ®️Patents
 
-Patents Written = 24 <br>
-💡Patents Pending = 11 <br>
+Patents Written w/Google Cloud Timestamps = 33 <br>
+💡USPTO Patents Pending = 11 <br>
 
 #### Open Source Contributions
 I would need pages to tell about them all, but here are 5 I am proud of.<br><br>
