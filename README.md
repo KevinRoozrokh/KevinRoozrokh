@@ -1,7 +1,7 @@
 ---
 
 My name is `Kevin Roozrokh`™. <br>
-Welcome to my [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh/KevinRoozrokh) ReadMe. 
+Welcome to my `Github`. 
 <br>
 
 ---
