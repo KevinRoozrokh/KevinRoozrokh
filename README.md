@@ -7,7 +7,7 @@ Welcome to my `Github`.
 ---
 
 #### 📒Coding Portfolio [![Github.io](https://img.shields.io/badge/-Github.io-black?style=flat-square&logo=Github&logoColor=white)](https://kevinroozrokh.github.io/)
-Last portfolio update: 2022
+Last update: 2023
 
 ---
 #### ®️Patents
@@ -20,7 +20,7 @@ Submitted: 12
 #### Recent Open Source Contributions
 
 <a href="https://github.com/StrawHatAI/" target="_blank">
-  <img src="https://strawhatai.com/images/Straw-Hat-AI-enterprise-banner-jpg.jpg" alt="Straw Hat Enterprise AI" width="400" height="120"/>
+  <img src="https://strawhatai.com/images/Straw-Hat-AI-enterprise-banner-jpg.jpg" alt="Straw Hat Enterprise AI" width="300" height="90"/>
 </a><br>
 
 ---
