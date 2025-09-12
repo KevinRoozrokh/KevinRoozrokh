@@ -7,7 +7,6 @@ Welcome to my `Github`.
 ---
 
 #### 📒Coding Portfolio [![Github.io](https://img.shields.io/badge/-Github.io-black?style=flat-square&logo=Github&logoColor=white)](https://kevinroozrokh.github.io/)
-Last update: 2023
 
 ---
 #### ®️Patents
