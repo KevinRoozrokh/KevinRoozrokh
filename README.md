@@ -25,11 +25,11 @@ Submitted: 12
 ---
 
 #### <img src="react-emoji-icon.jpg" alt="Trulli" width="20" height="20"> Technical Skills
-`Programming Languages:` JavaScript, Python, CSS, HTML, PHP, Solidity, SQL, UNIX <br>
+`Programming Languages:` JavaScript, Typescript, Python, CSS, HTML, PHP, Solidity, SQL, UNIX <br>
 `Frameworks:` React, ReactJS, React Native, Node.js, Express.js, Flutter, Vue.js, TypeScript <br>
 `Artificial Intelligence:` MCPs, OpenAI ChatGPT API, Google Gemini API, Meta Llama, Anthropic Claude<br>
 `Machine Learning Models:` TensorFlow, PyTorch, NLP, Computer Vision, Deep Learning, LLMOps <br>
-`Cloud Platforms:` AWS, Google Cloud, Firebase, DynamoDB, MongoDB <br>
+`Cloud Platforms:` Google Cloud, Firebase, DynamoDB, MongoDB <br>
 `Blockchain:` Smart Contracts, Web3, Bitcoin/Ethereum Mining, IPFS, Ganache <br>
 `Operating Systems:` Linux, Windows Server, MacOS, Android, iOS <br>
 `Certifications:` ITIL v3, CSM, A+, Network+, Security+ <br><br>
